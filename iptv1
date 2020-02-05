@@ -1,0 +1,764 @@
+
+<channel site="tvhebdo.com" xmltv_id="CBFT" site_id="src/CBFT" update="i">CBFT</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CIVM" site_id="tqc/CIVM" update="i">CIVM</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CFTM" site_id="tva/CFTM" update="i">CFTM</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CFJP" site_id="v/CFJP" update="i">CFJP</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CBVU-TV" site_id="cbc/CBMT" update="i">CBVU-TV</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CFCF" site_id="ctv/CFCF" update="i">CFCF</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CKMI (Montréal)" site_id="global/CKMI" update="i">CKMI (Montréal)</channel>
+
+<channel site="tvhebdo.com" xmltv_id="MAMTL" site_id="vox/MATV" update="i">MAMTL</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CJNT (Metro 14)" site_id="chh/CITYM" update="i">CJNT (Metro 14)</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CBC News Network" site_id="nw/CBCN" update="i">CBC News Network</channel>
+
+<channel site="tvhebdo.com" xmltv_id="RDI" site_id="rdi/RDI" update="i">RDI</channel>
+
+<channel site="tvhebdo.com" xmltv_id="METEO" site_id="met/METEO" update="i">METEO</channel>
+
+<channel site="tvhebdo.com" xmltv_id="WTHR" site_id="wthr/WTHR" update="i">WTHR</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Canal Savoir" site_id="sav/CFTU" update="i">Canal Savoir</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TVA Sports" site_id="tvas/TVASP" update="i">TVA Sports</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TVA Sports 2" site_id="tvs2/TVS2" update="i">TVA Sports 2</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Aboriginal Peoples Television Network" site_id="aptn/APTN" update="i">Aboriginal Peoples Television Network</channel>
+
+<channel site="tvhebdo.com" xmltv_id="AMI-Télé" site_id="amit/AMIT" update="i">AMI-Télé</channel>
+
+<channel site="tvhebdo.com" xmltv_id="The Accessible Channel" site_id="tact/AMITV" update="i">The Accessible Channel</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TREE" site_id="tree/TREE" update="i">TREE</channel>
+
+<channel site="tvhebdo.com" xmltv_id="YOOPA" site_id="yoo/YOOPA" update="i">YOOPA</channel>
+
+<channel site="tvhebdo.com" xmltv_id="MP" site_id="mp/MPLUS" update="i">MP</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Artv" site_id="artv/ARTV" update="i">Artv</channel>
+
+<channel site="tvhebdo.com" xmltv_id="MMAX" site_id="mmax/MMAX" update="i">MMAX</channel>
+
+<channel site="tvhebdo.com" xmltv_id="RDS" site_id="rds/RDS" update="i">RDS</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TOONF" site_id="ttf/TOONF" update="i">TOONF</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Canal Vie" site_id="vie/VIE" update="i">Canal Vie</channel>
+
+<channel site="tvhebdo.com" xmltv_id="D" site_id="d/D" update="i">D</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TV5" site_id="tv5/TV5" update="i">TV5</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Vrak TV" site_id="vrak/VRAK" update="i">Vrak TV</channel>
+
+<channel site="tvhebdo.com" xmltv_id="LCN" site_id="lcn/LCN" update="i">LCN</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Évasion" site_id="evasion/EVAS" update="i">Évasion</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Séries Plus" site_id="series/SERP" update="i">Séries Plus</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Historia" site_id="historia/HISF" update="i">Historia</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Z" site_id="ztele/Z" update="i">Z</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Saint-Pierre-et-Miquelon" site_id="rfo/RFO" update="i">Saint-Pierre-et-Miquelon</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Disney Jr Franco" site_id="phdf/DISJR" update="i">Disney Jr Franco</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Zeste" site_id="zest/ZESTE" update="i">Zeste</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Avis de recherche" site_id="avis/AVIS" update="i">Avis de recherche</channel>
+
+<channel site="tvhebdo.com" xmltv_id="WCFE" site_id="pbs/WCFE" update="i">WCFE</channel>
+
+<channel site="tvhebdo.com" xmltv_id="WVNY" site_id="abc/WVNY" update="i">WVNY</channel>
+
+<channel site="tvhebdo.com" xmltv_id="WPTZ" site_id="nbc/WPTZ" update="i">WPTZ</channel>
+
+<channel site="tvhebdo.com" xmltv_id="WCAX" site_id="cbs/WCAX" update="i">WCAX</channel>
+
+<channel site="tvhebdo.com" xmltv_id="WFFF" site_id="fox/WFFF" update="i">WFFF</channel>
+
+<channel site="tvhebdo.com" xmltv_id="WETK" site_id="pbs/WETK" update="i">WETK</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Wild" site_id="wild/WILD" update="i">Wild</channel>
+
+<channel site="tvhebdo.com" xmltv_id="World Fishing Network" site_id="wfn/WFN" update="i">World Fishing Network</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Gol TV Espagnol" site_id="gol/GOLSP" update="i">Gol TV Espagnol</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Casino and Gambling TV" site_id="cgtv/GAMETV" update="i">Casino and Gambling TV</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CNN" site_id="cnn/CNN" update="i">CNN</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CTVN" site_id="ctvn/NEWSNT" update="i">CTVN</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TDC" site_id="tdc/DISC" update="i">TDC</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TLC" site_id="tlc/TLC" update="i">TLC</channel>
+
+<channel site="tvhebdo.com" xmltv_id="A&E" site_id="ae/A%26amp%3BE" update="i">A&E</channel>
+
+<channel site="tvhebdo.com" xmltv_id="MuchMusic" site_id="mm/MMUSIC" update="i">MuchMusic</channel>
+
+<channel site="tvhebdo.com" xmltv_id="COUNTRY MUSIC TELEVISION" site_id="cmt/CMT" update="i">COUNTRY MUSIC TELEVISION</channel>
+
+<channel site="tvhebdo.com" xmltv_id="BRAVO!" site_id="bravo/BRAVO%21" update="i">BRAVO!</channel>
+
+<channel site="tvhebdo.com" xmltv_id="SPACE" site_id="space/SPACE" update="i">SPACE</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TOONA" site_id="tta/TOONA" update="i">TOONA</channel>
+
+<channel site="tvhebdo.com" xmltv_id="YTV" site_id="ytv/YTV" update="i">YTV</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Slice" site_id="life/SLICE" update="i">Slice</channel>
+
+<channel site="tvhebdo.com" xmltv_id="HISTORY" site_id="hist/HIST" update="i">HISTORY</channel>
+
+<channel site="tvhebdo.com" xmltv_id="VISION" site_id="vtv/VISION" update="i">VISION</channel>
+
+<channel site="tvhebdo.com" xmltv_id="SHOW" site_id="show/SHOW" update="i">SHOW</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CICA" site_id="tvo/TVO" update="i">CICA</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CITY" site_id="city/CITY" update="i">CITY</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Sun News" site_id="sun/SUN" update="i">Sun News</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Omni 1" site_id="omni/CFMT" update="i">Omni 1</channel>
+
+<channel site="tvhebdo.com" xmltv_id="FOOD" site_id="food/FOOD" update="i">FOOD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="HGTV" site_id="hgtv/HGTV" update="i">HGTV</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Cosmopolitan TV" site_id="cosm/COSMO" update="i">Cosmopolitan TV</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Investigation" site_id="inve/INVE" update="i">Investigation</channel>
+
+<channel site="tvhebdo.com" xmltv_id="UNIS" site_id="unis/UNIS" update="i">UNIS</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Explora" site_id="expl/EXPLO" update="i">Explora</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Moi&cie" site_id="mlle/MOI" update="i">Moi&cie</channel>
+
+<channel site="tvhebdo.com" xmltv_id="LCN Argent" site_id="argent/LCNA" update="i">LCN Argent</channel>
+
+<channel site="tvhebdo.com" xmltv_id="ADDIK" site_id="myst/ADDIK" update="i">ADDIK</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TFO" site_id="tfo/TFO" update="i">TFO</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Prise 2" site_id="prise2/PR2" update="i">Prise 2</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CASA" site_id="idee/CASA" update="i">CASA</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Télétoon Rétro français" site_id="ttrf/TTRFR" update="i">Télétoon Rétro français</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Télétoon Rétro Aglais" site_id="ttra/TTRAN" update="i">Télétoon Rétro Aglais</channel>
+
+<channel site="tvhebdo.com" xmltv_id="RDS Info" site_id="ris/RDSI" update="i">RDS Info</channel>
+
+<channel site="tvhebdo.com" xmltv_id="ONE: Body, Mind & Spirit Channel" site_id="one/OBMS" update="i">ONE: Body, Mind & Spirit Channel</channel>
+
+<channel site="tvhebdo.com" xmltv_id="WTN" site_id="wtn/WTN" update="i">WTN</channel>
+
+<channel site="tvhebdo.com" xmltv_id="FYI" site_id="fyi/FYI" update="i">FYI</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Fashion TV" site_id="fash/FASHN" update="i">Fashion TV</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Cottage Life" site_id="cott/COTT" update="i">Cottage Life</channel>
+
+<channel site="tvhebdo.com" xmltv_id="H2" site_id="ment/H2" update="i">H2</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Out TV" site_id="outv/OUTTV" update="i">Out TV</channel>
+
+<channel site="tvhebdo.com" xmltv_id="W Movies" site_id="sxtv/WMO" update="i">W Movies</channel>
+
+<channel site="tvhebdo.com" xmltv_id="NHL Network" site_id="nhl/NHL" update="i">NHL Network</channel>
+
+<channel site="tvhebdo.com" xmltv_id="The Score" site_id="scor/SN360" update="i">The Score</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Speed Channel" site_id="speed/SPEED" update="i">Speed Channel</channel>
+
+<channel site="tvhebdo.com" xmltv_id="GOLF" site_id="golf/GOLF" update="i">GOLF</channel>
+
+<channel site="tvhebdo.com" xmltv_id="OUTDOOR LIFE" site_id="oln/OLN" update="i">OUTDOOR LIFE</channel>
+
+<channel site="tvhebdo.com" xmltv_id="SPARK" site_id="spar/SPARK" update="i">SPARK</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Fight Network" site_id="figh/FIGHT" update="i">Fight Network</channel>
+
+<channel site="tvhebdo.com" xmltv_id="ESPN classics" site_id="espc/ESPNC" update="i">ESPN classics</channel>
+
+<channel site="tvhebdo.com" xmltv_id="National Geographic Wild" site_id="nagw/NATGW" update="i">National Geographic Wild</channel>
+
+<channel site="tvhebdo.com" xmltv_id="NFL Network" site_id="nfln/NFL" update="i">NFL Network</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Much More Retro" site_id="mret/MRET" update="i">Much More Retro</channel>
+
+<channel site="tvhebdo.com" xmltv_id="MUCHMORE" site_id="more/MMORE" update="i">MUCHMORE</channel>
+
+<channel site="tvhebdo.com" xmltv_id="DTOUR" site_id="trop/DTOUR" update="i">DTOUR</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spike TV" site_id="spike/SPK" update="i">Spike TV</channel>
+
+<channel site="tvhebdo.com" xmltv_id="BLACK ENTERTAINMENT" site_id="bet/BET" update="i">BLACK ENTERTAINMENT</channel>
+
+<channel site="tvhebdo.com" xmltv_id="STAR!" site_id="star/E%21" update="i">STAR!</channel>
+
+<channel site="tvhebdo.com" xmltv_id="GAME SHOW NETWORK" site_id="game/GAMES" update="i">GAME SHOW NETWORK</channel>
+
+<channel site="tvhebdo.com" xmltv_id="COMEDY" site_id="comedy/COMDY" update="i">COMEDY</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Independent Film Channel" site_id="ifcc/IFCC" update="i">Independent Film Channel</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Crime + Investigation" site_id="mys/MYST" update="i">Crime + Investigation</channel>
+
+<channel site="tvhebdo.com" xmltv_id="BBC Canada" site_id="bbc/BBCC" update="i">BBC Canada</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Lifetime Canada" site_id="shod/LTIME" update="i">Lifetime Canada</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Showcase Action" site_id="shoa/ACTION" update="i">Showcase Action</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TV Land Canada (Comedy Gold)" site_id="tvld/CMDYG" update="i">TV Land Canada (Comedy Gold)</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Rewind" site_id="rwd/RWD" update="i">Rewind</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Investigation Discovery Canada" site_id="cour/ID" update="i">Investigation Discovery Canada</channel>
+
+<channel site="tvhebdo.com" xmltv_id="MovieTime" site_id="lsta/MTIME" update="i">MovieTime</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Déjà View" site_id="deja/DEJA" update="i">Déjà View</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Sundance" site_id="driv/SUNDC" update="i">Sundance</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Silver Screen Classics" site_id="ssrc/SSCR" update="i">Silver Screen Classics</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CNN HEADLINE NEWS" site_id="cnnh/HLN" update="i">CNN HEADLINE NEWS</channel>
+
+<channel site="tvhebdo.com" xmltv_id="ROB (BNN)" site_id="rob/BNN" update="i">ROB (BNN)</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CNBC" site_id="cnbc/CNBC" update="i">CNBC</channel>
+
+<channel site="tvhebdo.com" xmltv_id="MSNBC" site_id="mnbc/MSNBC" update="i">MSNBC</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Travel & Escape" site_id="trav/TRAV" update="i">Travel & Escape</channel>
+
+<channel site="tvhebdo.com" xmltv_id="i channel" site_id="icha/ISSUE" update="i">i channel</channel>
+
+<channel site="tvhebdo.com" xmltv_id="BBC World" site_id="bbcw/BBCW" update="i">BBC World</channel>
+
+<channel site="tvhebdo.com" xmltv_id="MTV Canada" site_id="mtvc/MTVC" update="i">MTV Canada</channel>
+
+<channel site="tvhebdo.com" xmltv_id="DIY" site_id="fine/DIY" update="i">DIY</channel>
+
+<channel site="tvhebdo.com" xmltv_id="OWN Canada" site_id="ownh/OWN" update="i">OWN Canada</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Documentary Channel" site_id="docc/DOC" update="i">Documentary Channel</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Tech TV" site_id="tctv/TECTV" update="i">Tech TV</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Biography Channel" site_id="bio/BIO" update="i">Biography Channel</channel>
+
+<channel site="tvhebdo.com" xmltv_id="National Geographic Canada" site_id="nat/NGEO" update="i">National Geographic Canada</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Animal Planet" site_id="animal/ANPL" update="i">Animal Planet</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Discovery Science" site_id="dciv/DISCC" update="i">Discovery Science</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Book Television" site_id="book/BOOK" update="i">Book Television</channel>
+
+<channel site="tvhebdo.com" xmltv_id="American Hero Channel" site_id="ahc/AHC" update="i">American Hero Channel</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Disney Jr" site_id="plad/DJR" update="i">Disney Jr</channel>
+
+<channel site="tvhebdo.com" xmltv_id="FAMILY" site_id="fam/FAMILY" update="i">FAMILY</channel>
+
+<channel site="tvhebdo.com" xmltv_id="RDS2" site_id="rds2/RDS2" update="i">RDS2</channel>
+
+<channel site="tvhebdo.com" xmltv_id="BBC Kids" site_id="bbck/BBCKD" update="i">BBC Kids</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Razer" site_id="raze/MTV2" update="i">Razer</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Juice" site_id="pmch/JUICE" update="i">Juice</channel>
+
+<channel site="tvhebdo.com" xmltv_id="BPM TV" site_id="bpm/BPM" update="i">BPM TV</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Much Loud" site_id="mlou/MLOUD" update="i">Much Loud</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Much Vibe" site_id="mvib/MVIBE" update="i">Much Vibe</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Nickelodeon" site_id="nick/NICK" update="i">Nickelodeon</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Baby TV francophone" site_id="baby/BABY" update="i">Baby TV francophone</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Planète" site_id="plan/PLAN%2B" update="i">Planète</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Euronews" site_id="enew/ENEW" update="i">Euronews</channel>
+
+<channel site="tvhebdo.com" xmltv_id="ALJAZEERA" site_id="ajaz/ALJAZ" update="i">ALJAZEERA</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CPAC" site_id="cpac/CPAC" update="i">CPAC</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CPAC English" site_id="cpae/CPAE" update="i">CPAC English</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Assemblée Nationale" site_id="asna/ANQ" update="i">Assemblée Nationale</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Sports Net One" site_id="snet/SNONE" update="i">Sports Net One</channel>
+
+<channel site="tvhebdo.com" xmltv_id="The Shopping Channel" site_id="tsc/SHOP" update="i">The Shopping Channel</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Sports Net EST" site_id="snet/RSNE" update="i">Sports Net EST</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Sports Net Ontario" site_id="snet/RSNO" update="i">Sports Net Ontario</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Sports Net West" site_id="snet/RSNW" update="i">Sports Net West</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Sports Net Pacifique" site_id="snet/RSNP" update="i">Sports Net Pacifique</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Sportsnet World" site_id="seta/SNWL" update="i">Sportsnet World</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TSN1" site_id="tsn/TSN1" update="i">TSN1</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TSN2" site_id="tsn/TSN2" update="i">TSN2</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TSN3" site_id="tsn/TSN3" update="i">TSN3</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TSN4" site_id="tsn/TSN4" update="i">TSN4</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TSN" site_id="tsn/TSN5" update="i">TSN</channel>
+
+<channel site="tvhebdo.com" xmltv_id="NBA TV" site_id="nba/NBATV" update="i">NBA TV</channel>
+
+<channel site="tvhebdo.com" xmltv_id="France 24" site_id="fr24/FR24" update="i">France 24</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Ciné-pop" site_id="cpop/CPOP" update="i">Ciné-pop</channel>
+
+<channel site="tvhebdo.com" xmltv_id="SE" site_id="se/SE" update="i">SE</channel>
+
+<channel site="tvhebdo.com" xmltv_id="SE 2" site_id="se/SE+2" update="i">SE 2</channel>
+
+<channel site="tvhebdo.com" xmltv_id="SE 3" site_id="se/SE+3" update="i">SE 3</channel>
+
+<channel site="tvhebdo.com" xmltv_id="SE 4" site_id="se/SE+4" update="i">SE 4</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Super Channel 1" site_id="sc1/SC1" update="i">Super Channel 1</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Super Channel 2" site_id="sc2/SC2" update="i">Super Channel 2</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Super Channel 3" site_id="sc3/SC3" update="i">Super Channel 3</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Super Channel 4" site_id="sc4/SC4" update="i">Super Channel 4</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Station AMC" site_id="amc/AMC" update="i">Station AMC</channel>
+
+<channel site="tvhebdo.com" xmltv_id="FX Canada" site_id="fxc/FXC" update="i">FX Canada</channel>
+
+<channel site="tvhebdo.com" xmltv_id="The Movie Netwtork" site_id="tmn/TMN1" update="i">The Movie Netwtork</channel>
+
+<channel site="tvhebdo.com" xmltv_id="HBO" site_id="tmn/HBO" update="i">HBO</channel>
+
+<channel site="tvhebdo.com" xmltv_id="MExcess" site_id="tmn/MEXE" update="i">MExcess</channel>
+
+<channel site="tvhebdo.com" xmltv_id="MFun!" site_id="tmn/MFUN" update="i">MFun!</channel>
+
+<channel site="tvhebdo.com" xmltv_id="MFest" site_id="tmn/MFEST" update="i">MFest</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Movie PIX" site_id="pix/ENCOR" update="i">Movie PIX</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Encore 2" site_id="pix/ENCO2" update="i">Encore 2</channel>
+
+<channel site="tvhebdo.com" xmltv_id="WPCH-TV" site_id="wpch/PEACH" update="i">WPCH-TV</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Turner Classic Movie 1" site_id="tcmv/TCM1" update="i">Turner Classic Movie 1</channel>
+
+<channel site="tvhebdo.com" xmltv_id="PLAYBOY" site_id="play/PLAYBO" update="i">PLAYBOY</channel>
+
+<channel site="tvhebdo.com" xmltv_id="VIVID FR" site_id="vane/VIVFR" update="i">VIVID FR</channel>
+
+<channel site="tvhebdo.com" xmltv_id="VIVID" site_id="vann/VIVID" update="i">VIVID</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Hard" site_id="hard/PLAYM" update="i">Hard</channel>
+
+<channel site="tvhebdo.com" xmltv_id="WGN TV 9" site_id="wgn9/WGN" update="i">WGN TV 9</channel>
+
+<channel site="tvhebdo.com" xmltv_id="WSBK" site_id="wsbk/WSBK" update="i">WSBK</channel>
+
+<channel site="tvhebdo.com" xmltv_id="WPIX" site_id="wpix/WPIX" update="i">WPIX</channel>
+
+<channel site="tvhebdo.com" xmltv_id="KTLA" site_id="cw/KTLA" update="i">KTLA</channel>
+
+<channel site="tvhebdo.com" xmltv_id="E" site_id="ewtn/EWTN" update="i">E</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Salt + Light TV" site_id="salt/SALTL" update="i">Salt + Light TV</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Univision Canada" site_id="unic/UNIC" update="i">Univision Canada</channel>
+
+<channel site="tvhebdo.com" xmltv_id="RAI Nettuno Sat Uno" site_id="rnsu/RAI" update="i">RAI Nettuno Sat Uno</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TLAT" site_id="lat/TLAT" update="i">TLAT</channel>
+
+<channel site="tvhebdo.com" xmltv_id="FAIR" site_id="fair/FAIRCH" update="i">FAIR</channel>
+
+<channel site="tvhebdo.com" xmltv_id="ASIAN TELEVISION NETWORK" site_id="atn/ASIAN" update="i">ASIAN TELEVISION NETWORK</channel>
+
+<channel site="tvhebdo.com" xmltv_id="OTN" site_id="otn/ODY" update="i">OTN</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Art America" site_id="art/ART" update="i">Art America</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Festival Portuguese Television" site_id="fptv/FPTV" update="i">Festival Portuguese Television</channel>
+
+<channel site="tvhebdo.com" xmltv_id="ERT World" site_id="erts/ERTS" update="i">ERT World</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Deutsche Welle" site_id="dw/DWTV" update="i">Deutsche Welle</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Caracol TV" site_id="cara/CARA" update="i">Caracol TV</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TLN Ninos" site_id="nino/NINOS" update="i">TLN Ninos</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Cine Latino" site_id="cinl/CINEL" update="i">Cine Latino</channel>
+
+<channel site="tvhebdo.com" xmltv_id="FOXLife" site_id="foxl/FOXL" update="i">FOXLife</channel>
+
+<channel site="tvhebdo.com" xmltv_id="AZ Mundo" site_id="azmu/AZMU" update="i">AZ Mundo</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Tv Chile international" site_id="tvch/CHILE" update="i">Tv Chile international</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TVE1" site_id="tve/TVE" update="i">TVE1</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Nuevo Mundo" site_id="nmun/NUEVO" update="i">Nuevo Mundo</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CBUFT" site_id="src/CBUFT" update="i">CBUFT</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CBUT-2" site_id="cbc/CBUT" update="i">CBUT-2</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CIVT" site_id="ctv/CIVT" update="i">CIVT</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CHAN" site_id="global/CHAN" update="i">CHAN</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CJON" site_id="ntv/CJON" update="i">CJON</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo15" site_id="spom/SPO15" update="i">Spo15</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo16" site_id="spom/SPO16" update="i">Spo16</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo17" site_id="spom/SPO17" update="i">Spo17</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo18" site_id="spom/SPO18" update="i">Spo18</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo19" site_id="spom/SPO19" update="i">Spo19</channel>
+
+<channel site="tvhebdo.com" xmltv_id="KOMO" site_id="abc/KOMO" update="i">KOMO</channel>
+
+<channel site="tvhebdo.com" xmltv_id="KING" site_id="nbc/KING" update="i">KING</channel>
+
+<channel site="tvhebdo.com" xmltv_id="KIRO" site_id="cbs/KIRO" update="i">KIRO</channel>
+
+<channel site="tvhebdo.com" xmltv_id="KCPQ" site_id="fox/KCPQ" update="i">KCPQ</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo1" site_id="spom/SPO1" update="i">Spo1</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo2" site_id="spom/SPO2" update="i">Spo2</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo3" site_id="spom/SPO3" update="i">Spo3</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo4" site_id="spom/SPO4" update="i">Spo4</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo5" site_id="spom/SPO5" update="i">Spo5</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo6" site_id="spom/SPOM" update="i">Spo6</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo7" site_id="spom/SPO7" update="i">Spo7</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo8" site_id="spom/SPO8" update="i">Spo8</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo9" site_id="spom/SPO9" update="i">Spo9</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo10" site_id="spom/SPO10" update="i">Spo10</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo11" site_id="spom/SPO11" update="i">Spo11</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo12" site_id="spom/SPO12" update="i">Spo12</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo13" site_id="spom/SPO13" update="i">Spo13</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo14" site_id="spom/SPO14" update="i">Spo14</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo23" site_id="spom/SPO23" update="i">Spo23</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo24" site_id="spom/SPO24" update="i">Spo24</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo25" site_id="spom/SPO25" update="i">Spo25</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo26" site_id="spom/SPO26" update="i">Spo26</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo27" site_id="spom/SPO27" update="i">Spo27</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo28" site_id="spom/SPO28" update="i">Spo28</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo29" site_id="spom/SPO29" update="i">Spo29</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo30" site_id="spom/SPO30" update="i">Spo30</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo31" site_id="spom/SPO31" update="i">Spo31</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spo32" site_id="spom/SPO32" update="i">Spo32</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CBFT HD" site_id="src/SRCHD" update="i">CBFT HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CIVM" site_id="tqc/TQCHD" update="i">CIVM</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CFTM HD" site_id="tva/TVAHD" update="i">CFTM HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CFJP HD" site_id="v/VHD" update="i">CFJP HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CBMT" site_id="cbc/CBCHD" update="i">CBMT</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CFCF HD" site_id="ctv/CTVHD" update="i">CFCF HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CIII (Hull-Ottawa) HD" site_id="global/CIIIHD" update="i">CIII (Hull-Ottawa) HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="MATV HD" site_id="vox/MAHD" update="i">MATV HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CJNT (Metro 14)" site_id="chh/CITYMH" update="i">CJNT (Metro 14)</channel>
+
+<channel site="tvhebdo.com" xmltv_id="ICI Canal international HD" site_id="ici/ICI+HD" update="i">ICI Canal international HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CBC News Network HD" site_id="nw/CNEHD" update="i">CBC News Network HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="RDI HD" site_id="rdi/RDIHD" update="i">RDI HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Canal Savoir HD" site_id="sav/SAVOIR+HD" update="i">Canal Savoir HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TVA Sports HD" site_id="tvas/TSPHD" update="i">TVA Sports HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TVA Sports 2 HD" site_id="tvs2/TVS2" update="i">TVA Sports 2 HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="APTN HD" site_id="aptn/APTHD" update="i">APTN HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="YOOPA HD" site_id="yoo/YOOHD" update="i">YOOPA HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="MP HD" site_id="mp/MU%2BHD" update="i">MP HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Artv HD" site_id="artv/ARTHD" update="i">Artv HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="MMAX HD" site_id="mmax/MMXHD" update="i">MMAX HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="RDS HD" site_id="rds/RDSHD" update="i">RDS HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Canal Vie HD" site_id="vie/VIEHD" update="i">Canal Vie HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="D HD" site_id="d/D+HD" update="i">D HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TV5 HD" site_id="tv5/TV5HD" update="i">TV5 HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Vrak HD" site_id="vrak/VRKHD" update="i">Vrak HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="LCN HD" site_id="lcn/LCN+HD" update="i">LCN HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Évasion HD" site_id="evasion/EVAHD" update="i">Évasion HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Séries Plus HD" site_id="series/SE%2BHD" update="i">Séries Plus HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Historia HD" site_id="historia/HIAHD" update="i">Historia HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Z HD" site_id="ztele/Z+HD" update="i">Z HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Zeste HD" site_id="zest/ZESHD" update="i">Zeste HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="WCFEDT1" site_id="pbs/PBS" update="i">WCFEDT1</channel>
+
+<channel site="tvhebdo.com" xmltv_id="WVNDT" site_id="abc/WVNYH" update="i">WVNDT</channel>
+
+<channel site="tvhebdo.com" xmltv_id="WPTZDT" site_id="nbc/WPTZH" update="i">WPTZDT</channel>
+
+<channel site="tvhebdo.com" xmltv_id="WCAXDT" site_id="cbs/WCAXH" update="i">WCAXDT</channel>
+
+<channel site="tvhebdo.com" xmltv_id="WFFF" site_id="fox/WFFFH" update="i">WFFF</channel>
+
+<channel site="tvhebdo.com" xmltv_id="OWN HD Canada" site_id="ownh/OWNHD" update="i">OWN HD Canada</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CNN HD" site_id="cnn/CNNHD" update="i">CNN HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Discovery HD" site_id="tdc/DISCH" update="i">Discovery HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="A&E HD" site_id="ae/A%26amp%3BEHD" update="i">A&E HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="MuchMusic HD" site_id="mm/MUCH+HD" update="i">MuchMusic HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="BRAVO! HD" site_id="bravo/BRVOH" update="i">BRAVO! HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="SPACE HD" site_id="space/SPCHD" update="i">SPACE HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="YTV HD" site_id="ytv/YTV+HD" update="i">YTV HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Slice HD" site_id="life/SLICE+HD" update="i">Slice HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="History HD" site_id="hist/HIST" update="i">History HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Showcase HD" site_id="show/SHOW+HD" update="i">Showcase HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="City HD" site_id="city/CITHD" update="i">City HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Sun News HD" site_id="sun/SUNHD" update="i">Sun News HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Be In Sports" site_id="beis/BEIS" update="i">Be In Sports</channel>
+
+<channel site="tvhebdo.com" xmltv_id="FOOD HD" site_id="food/FOODH" update="i">FOOD HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="HGTV HD" site_id="hgtv/HGTVH" update="i">HGTV HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Investigation HD" site_id="inve/INVE" update="i">Investigation HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="UNIS HD" site_id="unis/UNIS" update="i">UNIS HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Explora HD" site_id="expl/EXPHD" update="i">Explora HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Moi&cie" site_id="mlle/MOIHD" update="i">Moi&cie</channel>
+
+<channel site="tvhebdo.com" xmltv_id="ADDIK HD" site_id="myst/ADDIKHD" update="i">ADDIK HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TFO HD" site_id="tfo/TFOHD" update="i">TFO HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Prise 2 HD" site_id="prise2/P2HD" update="i">Prise 2 HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CASA HD" site_id="idee/CASAH" update="i">CASA HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="RDS Info HD" site_id="ris/RDSIH" update="i">RDS Info HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Ciné-pop HD" site_id="cpop/POPHD" update="i">Ciné-pop HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="SE HD" site_id="se/SEHD" update="i">SE HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="SE 2 HD" site_id="se/SE2HD" update="i">SE 2 HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="SE3 HD" site_id="se/SE" update="i">SE3 HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="SE4 HD" site_id="se/SE4HD" update="i">SE4 HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="W Movies HD" site_id="sxtv/W+MOVIES+H" update="i">W Movies HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="The Score HD" site_id="scor/SN360HD" update="i">The Score HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Speed Channel HD" site_id="speed/SPEHD" update="i">Speed Channel HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="GOLF HD" site_id="golf/GLHD" update="i">GOLF HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="ABC Sparks HD" site_id="spar/SPARKHD" update="i">ABC Sparks HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Fight Network HD" site_id="figh/FIGH" update="i">Fight Network HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="National Geo Wild HD" site_id="nagw/NGWHD" update="i">National Geo Wild HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="NFL HD" site_id="nfln/NFLHD" update="i">NFL HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Spike TV HD" site_id="spike/SPIHD" update="i">Spike TV HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Discovery Channel HD" site_id="dchd/DWHD" update="i">Discovery Channel HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Oasis HD" site_id="oash/NATUR" update="i">Oasis HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Lifetime Canada HD" site_id="shod/LTIMEHD" update="i">Lifetime Canada HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Investigation Discovery Canada HD" site_id="cour/IDHD" update="i">Investigation Discovery Canada HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="MovieTime HD" site_id="lsta/MTIMH" update="i">MovieTime HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="CNN Headline News HD" site_id="cnnh/CNNH" update="i">CNN Headline News HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Travel & Escape HD" site_id="trav/TRAV" update="i">Travel & Escape HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="National Geographic HD" site_id="nat/GEOHD" update="i">National Geographic HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Animal Planet HD" site_id="animal/APLA" update="i">Animal Planet HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Discovery Science HD" site_id="dciv/DCIV" update="i">Discovery Science HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="H2 HD" site_id="ment/H2HD" update="i">H2 HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Disney Jr HD" site_id="plad/PLAD" update="i">Disney Jr HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="THE FAMILY CHANNEL HD" site_id="fam/FAM" update="i">THE FAMILY CHANNEL HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="RDS2 HD" site_id="rds2/RDS2H" update="i">RDS2 HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Planète HD" site_id="plan/PLAHD" update="i">Planète HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Sports Net HD" site_id="snet/RSNHD" update="i">Sports Net HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Sportsnet Ontario HD" site_id="snet/SNET+ONT+H" update="i">Sportsnet Ontario HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Sports Net West HD" site_id="snet/SNET+WEST+" update="i">Sports Net West HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Sports Net Pacifique HD" site_id="snet/SNET+PAC+H" update="i">Sports Net Pacifique HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="SNWHD" site_id="seta/SNETWORLD+" update="i">SNWHD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Sports Net One HD" site_id="snet/SNOHD" update="i">Sports Net One HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TSN1 HD" site_id="tsn/TSN1H" update="i">TSN1 HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TSN2 HD" site_id="tsn/TSN2H" update="i">TSN2 HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TSN3 HD" site_id="tsn/TSN3H" update="i">TSN3 HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TSN4 HD" site_id="tsn/TSN4H" update="i">TSN4 HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TSN HD" site_id="tsn/TSN5H" update="i">TSN HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="NBA TV HD" site_id="nba/NBAHD" update="i">NBA TV HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Super Channel 1 HD" site_id="sc1/SC1HD" update="i">Super Channel 1 HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Super Channel 2 HD" site_id="sc2/SC2HD" update="i">Super Channel 2 HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Super Channel 3 HD" site_id="sc3/SC3HD" update="i">Super Channel 3 HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Super Channel 4 HD" site_id="sc4/SC4HD" update="i">Super Channel 4 HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="AMC HD" site_id="amc/AMCHD" update="i">AMC HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="FX Canada HD" site_id="fxc/FXHD" update="i">FX Canada HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="MHD" site_id="tmn/TMNHD" update="i">MHD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="HBO HD" site_id="tmn/HBOCH" update="i">HBO HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="MExcess HD" site_id="tmn/MEXH" update="i">MExcess HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="MFUN HD" site_id="tmn/MFUH" update="i">MFUN HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="MFEST HD" site_id="tmn/TMN" update="i">MFEST HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Movie PIX HD" site_id="pix/ENCHD" update="i">Movie PIX HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TMN Encore 2 HD" site_id="pix/PIX" update="i">TMN Encore 2 HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="Peachtree HD" site_id="wpch/WPCH" update="i">Peachtree HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="TCM HD" site_id="tcmv/TCMV" update="i">TCM HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="VIVID FR HD" site_id="vane/VIVFRH" update="i">VIVID FR HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="WGN9 HD" site_id="wgn9/WGN9" update="i">WGN9 HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="WSBK HD" site_id="wsbk/WSBK" update="i">WSBK HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="WPIX HD" site_id="wpix/WPIX" update="i">WPIX HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="KTLA HD" site_id="cw/CW" update="i">KTLA HD</channel>
+
+<channel site="tvhebdo.com" xmltv_id="HDS11 862" site_id="spom/HDSP1" update="i">HDS11 862</channel>
+
+<channel site="tvhebdo.com" xmltv_id="HDS13 864" site_id="spom/HDSP3" update="i">HDS13 864</channel>
+
+</channels>
+
+</site>

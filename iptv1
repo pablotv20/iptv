@@ -1,3 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<site site="tvhebdo.com" generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version 1.1.1/53.17 -- Jan van Straaten">
+
+
+-<channels>
 
 <channel site="tvhebdo.com" xmltv_id="CBFT" site_id="src/CBFT" update="i">CBFT</channel>
 
